@@ -2,6 +2,8 @@ Sorry, need more here...
 
 Try:
 
+source bash_setup_pkgs.rc
+
 ghc --make -o setup Setup.lhs
 ./setup configure
 ./setup build
